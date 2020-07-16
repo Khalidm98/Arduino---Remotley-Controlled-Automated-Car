@@ -17,5 +17,5 @@ x4  DC Motors (5V)
 x4  Wheels
 x1  Motor Driver (L298N)
 x1  Bluetooth Module (HC05)
-x1  Line Tracker Sensor (3 diodes)
+x1  Infra-Red Tracking Sensor (3 diodes)
 x1  Ultrasonic Sensor (HC-SR04)
