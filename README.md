@@ -1,11 +1,12 @@
 # Arduino - Remotely Controlled / Automated Car
 
-A car that has two mdes of operation:
+A car that has two modes of operation:
 1. Remote Control mode:
     The car can be controled remotely through bluetooth by using this app:
+    https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en
     
 2. Automated mode:
-    The car can follow a line track by using a line tracker sensor
+    The car can follow a black line track by using a line tracker sensor
 
 
 Main Components:
