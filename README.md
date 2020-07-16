@@ -6,7 +6,7 @@ A car that has two modes of operation:
     https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en
     
 2. Automated mode:
-    The car can follow a black line track by using a line tracker sensor
+    The car can follow a black line track by using an Infra-Red tracking sensor
 
 
 Main Components:
